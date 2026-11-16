@@ -18,7 +18,7 @@ Processamento de Imagens
   - Seleção e caracterização da imagem;
   - Inserção de ruído Gaussiano;
   - Aplicação de filtros no domínio da frequência;
-  - Implementação e comparação dos filtros Gaussiano e Butterworth;
+  - Aplicação e comparação dos filtros Gaussiano e Butterworth;
   - Visualização dos espectros de frequência antes e depois da filtragem;
   - Aplicação da transformada inversa para retornar ao domínio espacial;
   - Segmentação utilizando os algoritmos Watershed e SLIC;
@@ -31,7 +31,7 @@ Processamento de Imagens
   - Análise de falhas na segmentação inicial, como buracos internos, contornos fragmentados e ruídos;
   - Implementação de operações morfológicas com elementos estruturantes circulares;
   - Aplicação de fechamento morfológico;
-  - Implementação do preenchimento de buracos (*gap-filling*), incluindo o tratamento de células nas bordas da imagem por espelhamento;
+  - Aplicação do preenchimento de buracos (*gap-filling*), incluindo o tratamento de células nas bordas da imagem por espelhamento;
   - Aplicação de abertura morfológica para remoção de pequenas partículas;
   - Implementação de algoritmo próprio para contagem automatizada de células;
   - Comparação da contagem antes e depois do pós-processamento morfológico;
